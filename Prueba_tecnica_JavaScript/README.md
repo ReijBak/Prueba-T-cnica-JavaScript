@@ -1,5 +1,5 @@
 
-### EventSeven
+# EventSeven
 
 ## Description
 
@@ -50,7 +50,7 @@ EventSeven/
 
 ## Aditional notes
 
-# Bugs known
+### Bugs known
 
 - At time to create a event, it can be created twice.
 
