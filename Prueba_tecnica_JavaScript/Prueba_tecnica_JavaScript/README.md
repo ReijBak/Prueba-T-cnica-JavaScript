@@ -1,5 +1,5 @@
 
-### EventSeven
+# EventSeven
 
 https://github.com/ReijBak/Prueba-T-cnica-JavaScript/tree/main/Prueba_tecnica_JavaScript
 
@@ -54,7 +54,7 @@ EventSeven/
 
 ## Aditional notes
 
-# Bugs known
+### Bugs known
 
 - At time to create a event, it can be created twice.
 
